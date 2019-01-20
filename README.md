@@ -1,5 +1,9 @@
 # Analysing AirBnB Data : Boston and Seattle
 
+## libraries used
+Below are main libraries which are used in the project, more details can be found code.
+numpy, pandas, seaborn, matplotlib, sklearn
+
 ## Project Motivation 
 
 Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Boston and Seatle Airbnb datasets were collected and investigated.
