@@ -1,7 +1,7 @@
 # Analysing AirBnB Data : Boston and Seattle
 
 ## libraries used
-Below are main libraries which are used in the project, more details can be found code.
+Main libraries which are used in the project, more details can be found code.
 numpy, pandas, seaborn, matplotlib, sklearn
 
 ## Project Motivation 
