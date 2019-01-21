@@ -22,7 +22,7 @@ Three bisinuess questions were asked and answered:
 
 ## Results
 
-Results and Discussion published here [Analysing AirBnB Data : Boston and Seattle](https://medium.com/@chintu5384/analysing-airbnb-data-boston-and-seattle-edc1913f8318)
+Results and Discussion published here [Data-Science-Blog-Analysing-Airbnb-listing-data-for-Boston-and-Seattle](https://github.com/Chintan5384/Data-Science-Blog-Analysing-Airbnb-listing-data-for-Boston-and-Seattle-master)
 
 #### Lest walk through
 - 1. Gathered the Boston and Seattle Airbnb data
